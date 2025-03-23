@@ -12,10 +12,10 @@ Setiap mahasiswa memiliki atribut:
 4. Umur
 Program ini menggunakan JTable untuk menampilkan data mahasiswa dan memungkinkan pengguna mengubah atau menghapus data yang dipilih.
 
-Desain GUI:
+## Desain GUI:
 ![Screenshot 2025-03-23 205140](https://github.com/user-attachments/assets/ee6fa953-209e-4f86-b3b1-ee8fb872ac76)
 
-Komponen Utama dalam Menu.java:
+## Komponen Utama dalam Menu.java:
 JFrame: Frame utama aplikasi
 JTable: Menampilkan daftar mahasiswa dalam bentuk tabel
 JTextField: Input untuk NIM dan nama mahasiswa
@@ -45,4 +45,4 @@ ArrayList<Mahasiswa>: List untuk menyimpan data mahasiswa
 6. Program terus berjalan hingga pengguna menutup window.
 
 # Dokumentasi
-![dokumentasi (1)](https://github.com/user-attachments/assets/c4b4adab-ee17-49df-bff5-dc2705819aa7)
+![dokumentasi (2)](https://github.com/user-attachments/assets/d3cb0ab3-0232-432e-8c62-d576becb706a)
